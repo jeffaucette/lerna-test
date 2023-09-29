@@ -1,0 +1,14 @@
+{
+  "name": "lerna-test",
+  "version": "1.0.0",
+  "description": "version test",
+  "main": "index.js",
+  "scripts": {
+    "relase": "standard-version"
+  },
+  "author": "Jeffrey",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
