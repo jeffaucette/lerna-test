@@ -4,7 +4,7 @@
   "description": "version test",
   "main": "index.js",
   "scripts": {
-    "relase": "standard-version"
+    "release": "standard-version"
   },
   "author": "Jeffrey",
   "license": "ISC",
