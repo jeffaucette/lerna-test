@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/jeffaucette/release-test/compare/v1.2.0...v1.3.0) (2023-09-29)
+
+
+### Features
+
+* calc ([#7](https://github.com/jeffaucette/release-test/issues/7)) ([c466663](https://github.com/jeffaucette/release-test/commit/c46666333b108d486806695dcdefa9d9ec180335))
+* output a ([#9](https://github.com/jeffaucette/release-test/issues/9)) ([e67513c](https://github.com/jeffaucette/release-test/commit/e67513c985337e57ead079fce1540c5d40ae5a0b))
+
 ## [1.2.0](https://github.com/jeffaucette/lerna-test/compare/v1.1.0...v1.2.0) (2023-09-29)
 
 
